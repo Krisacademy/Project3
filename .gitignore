@@ -2,9 +2,9 @@
 *.d
 *.vcxproj
 .vs/
-.x64/
+.x64/Debug/
 *.vcxproj.user
-
+Project3/*.vcxproj
 *.vcxproj.filters
 # Compiled Object files
 *.slo
