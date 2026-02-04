@@ -12,7 +12,7 @@ void increment()
         //counter.fetch_add(1); // атомарное увеличение
         counter++;        
     }
-    f
+    
 
 }
 

@@ -1,11 +1,11 @@
 # Prerequisites
 *.d
-.vcxproj
+*.vcxproj
 .vs/
 .x64/
-.vcxproj.user
+*.vcxproj.user
 
-vcxproj.filters
+*.vcxproj.filters
 # Compiled Object files
 *.slo
 *.lo
